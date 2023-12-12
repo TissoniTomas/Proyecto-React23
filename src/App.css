@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #A62639;
+    
+}
+
+.mainCardProducts{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20vh;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 5%;
+}

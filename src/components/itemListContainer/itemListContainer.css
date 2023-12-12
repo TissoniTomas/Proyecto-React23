@@ -1,0 +1,21 @@
+.divCard{
+    width: 80%;
+    height: auto;
+    margin: 5%;
+    
+    
+}
+
+.imageCard{
+    
+    height: 400px;
+}
+
+.titleCard{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.botonesCard{
+    background-color: #A62639 !important;
+}

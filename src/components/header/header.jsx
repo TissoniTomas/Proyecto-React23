@@ -12,7 +12,7 @@ const header = () => {
         <li className='navbar-item'>PRODUCTOS</li>
         <li className='navbar-item'>QUIENES SOMOS</li>
         <li className='navbar-item'>CONTACTO</li>
-        <ShoppingCartIcon color= "secondary" fontSize='large'/>
+        <ShoppingCartIcon  fontSize='large'/>
         <span>5</span>
       </ul>
 
